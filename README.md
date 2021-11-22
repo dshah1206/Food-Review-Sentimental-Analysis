@@ -1,7 +1,12 @@
-# Food-Review-Sentimental-Analysis
-Created in 2019.
-To download the .sqlite or .csv file, go on this link:
-https://www.kaggle.com/snap/amazon-fine-food-reviews
+# Machine Learning Project: Food Review Sentimental Analysis
 
-Python Version 3.7 is required.
-Run the .py file using spyder or atom.
+The machine learning project was created in 2019.
+
+In order to download the dataset (.sqlite or .csv file), use the following link:
+
+*https://www.kaggle.com/snap/amazon-fine-food-reviews*
+
+## Requirements
+1) IDE: Anaconda/Jupyter/Spyder
+2) Python: 3.7 or higher version
+
